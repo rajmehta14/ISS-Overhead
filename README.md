@@ -1,2 +1,2 @@
 # ISS-Overhead
-This project is build using python that sends an email to the specified user when ISS is at the location of the user at the night so that user can see the ISS in the sky.
+The ISS Overhead Notifier is a Python-based project that alerts users when the International Space Station (ISS) is visible overhead at their location. This project utilizes various APIs to track the ISS's position in real-time and check for visibility conditions such as time of day and weather. It is an excellent project for space enthusiasts and anyone interested in observing the ISS as it passes over their location.
